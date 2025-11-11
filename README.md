@@ -23,3 +23,5 @@ cutting down overlaps, reduces vector sizes and hence memory.
   <img src="t-sne_kmer_token_distribution.png" width="45%" alt="t-SNE kmer token distribution">
   <img src="kmer_tokens_distribution.png" width="45%" alt="PCA kmer tokens distribution">
 </p>
+
+Figure - Vector disttributions of kmer. 0 for non coding and 1 for coding RNA. Left: t-SNE, right: PCA
