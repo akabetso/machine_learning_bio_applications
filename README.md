@@ -1,5 +1,10 @@
-# Biotype Classification
+# *RNA Biotype Classification*
 
+### Compiled by *Desmond Akabetso Nde*
+### last updated on *11 of November 2025*
+### *If you find this interesting or have any desagreements, do not hesitate to comment them out, thank you* 
+
+## Aim: 
 In this repo, I thrive to implement the collections of  knowledge and skills learned from MIT online sources, CNRS online, publications and other available resources!
 
 Implement kmer tokenization, embedding and neural network to classify rna biotypes into coding and non coding rna
