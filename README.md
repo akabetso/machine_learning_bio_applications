@@ -1,4 +1,4 @@
-# *RNA Biotype Classification*
+# Machine Learning *RNA Biotype Classification*
 
 ### Compiled by *Desmond Akabetso Nde*
 ### last updated on *11 of November 2025*
